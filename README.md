@@ -28,9 +28,7 @@
 ## 垃圾分类比赛
 
 ##  1、华为云人工智能大赛·垃圾分类挑战杯
-		* 
 官网：https://competition.huaweicloud.com/information/1000007620/introduction
-
 
 * 1、垃圾种类40类
 
